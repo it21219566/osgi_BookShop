@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: BookShopServiceProducer
+Bundle-SymbolicName: BookShopServiceProducer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: bookshopserviceproducer.Activator
+Export-Package: bookshopserviceproducer
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
