@@ -1,1 +1,1 @@
-# osgi_BookShop
+# Online Book Shop Mannagement System using OSGI Framework
